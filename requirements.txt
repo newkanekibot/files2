@@ -3,5 +3,5 @@ psycopg2-binary
 pyrogram
 python-dotenv
 Pyromod
-sqlalchemy==1.4.31
+sqlalchemy==1.4.44
 TgCrypto
